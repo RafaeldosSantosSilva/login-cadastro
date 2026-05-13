@@ -19,10 +19,9 @@ O sistema permite:
 - **Supabase** (Backend as a Service)
 
 ---
-
 # 📁 Estrutura do Projeto
 
-```bash
+
 📦 projeto-login
 ├── index.html       # Tela de Login
 ├── cadastro.html    # Tela de Cadastro
