@@ -1,4 +1,4 @@
-"""# 🔐 Sistema de Login e Cadastro com Supabase
+# 🔐 Sistema de Login e Cadastro com Supabase
 
 Este projeto é uma aplicação simples de Login e Cadastro de Usuários desenvolvida utilizando HTML, CSS e JavaScript puro, integrada ao Supabase como banco de dados.
 
